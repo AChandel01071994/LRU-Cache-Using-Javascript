@@ -1,4 +1,4 @@
-// using QUEUE (doubly linked list) & Hash (Object in javasccript)
+// using QUEUE (doubly linked list) & Hash (Object in javascript)
 {
 class Node{
     constructor(val){
